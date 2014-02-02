@@ -1,0 +1,24 @@
+{
+  "name": "knalli-bower-move-test",
+  "version": "1.0.0",
+  "authors": [
+    "knalli <knallisworld@googlemail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knalli/knalli-bower-move-test"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-translate": "~1.1.1"
+  },
+  "description": "The purpose of this code is only checking wether moving bower packages works"
+}
