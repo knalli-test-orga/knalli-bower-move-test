@@ -1,12 +1,12 @@
 {
   "name": "knalli-bower-move-test",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "authors": [
     "knalli <knallisworld@googlemail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/knalli/knalli-bower-move-test"
+    "url": "git://github.com/knalli-test-orga/knalli-bower-move-test"
   },
   "main": "index.js",
   "license": "MIT",
